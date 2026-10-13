@@ -1,0 +1,25 @@
+bank_id,bank_name,report_date,source_name,total_assets,total_liabilities,total_equity,net_income
+B001,Northstar Bank,2025-03-31,Annual Report,125000,112000,13000.0,1200.0
+B001,Northstar Bank,2025-03-31,Vendor Feed,125000,112000,13000.0,1200.0
+B002,Rivergate Bank,2025-03-31,Annual Report,98000,90000,8000.0,900.0
+B002,Rivergate Bank,2025-03-31,Vendor Feed,98000,90000,8000.0,900.0
+B003,Summit Commercial Bank,2025-03-31,Annual Report,210000,194000,,2100.0
+B003,Summit Commercial Bank,2025-03-31,Vendor Feed,210000,194000,,2100.0
+B004,Cedar Trust Bank,2025-03-31,Annual Report,165000,161000,14000.0,1700.0
+B004,Cedar Trust Bank,2025-03-31,Vendor Feed,165000,161000,14000.0,1700.0
+B005,BluePeak Bank,2025-03-31,Annual Report,76000,70000,6000.0,600.0
+B005,BluePeak Bank,2025-03-31,Vendor Feed,76000,70000,6000.0,600.0
+B006,Oakline Bank,2025-03-31,Annual Report,88000,81000,7000.0,800.0
+B006,Oakline Bank,2025-03-31,Vendor Feed,88000,81000,7000.0,800.0
+B007,Meridian Bank,2025-03-31,Annual Report,142000,130000,12000.0,
+B007,Meridian Bank,2025-03-31,Vendor Feed,142000,130000,12000.0,
+B008,Pinecrest Bank,2025-03-31,Annual Report,66000,61000,5000.0,500.0
+B008,Pinecrest Bank,2025-03-31,Vendor Feed,68000,61000,5000.0,500.0
+B009,Harborview Bank,2025-03-31,Annual Report,105000,96000,9000.0,1000.0
+B009,Harborview Bank,2025-03-31,Vendor Feed,105000,96000,9000.0,1000.0
+B010,Redwood Bank,2025-03-31,Annual Report,155000,143000,12000.0,1400.0
+B010,Redwood Bank,2025-03-31,Vendor Feed,155000,143000,12000.0,1400.0
+B011,Eastwind Bank,2025-03-31,Annual Report,92000,85000,7000.0,750.0
+B011,Eastwind Bank,2025-03-31,Vendor Feed,92000,85000,7000.0,9300.0
+B012,Silverfern Bank,2025-03-31,Annual Report,118000,108000,10000.0,1100.0
+B012,Silverfern Bank,2025-03-31,Vendor Feed,118000,108000,10000.0,1100.0
